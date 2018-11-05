@@ -1,0 +1,1 @@
+./Logs/SLog/MyLog 6.txt./Logs/SLog/MyLog 6.txt

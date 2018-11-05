@@ -1,0 +1,11 @@
+This file made on 2016/08/03 10:12:07
+RoomName is : みんなで話そうぜ
+Start------------------------------------------------------------
+IP=127.  0.  0.  1 Yoshiさんが参加しました。
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshiさんが退出しました。
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshiさんが参加しました。
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshiさんが退出しました。
+Sent 127.  0.  0.  1 Name=Yoshi

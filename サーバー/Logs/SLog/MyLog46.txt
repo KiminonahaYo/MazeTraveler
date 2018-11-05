@@ -1,0 +1,37 @@
+This file made on 2016/08/03 10:18:10
+RoomName is : bbbbbcc
+Start------------------------------------------------------------
+IP=127.  0.  0.  1 Yoshikoshiさんが参加しました。
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshi : ccc
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshi : cc
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshi : cc
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshi : cc
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshi : cc
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshi : cc
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshi : cc
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshi : cc
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshiさんが退出しました。
+IP=127.  0.  0.  1 Yoshikoshiさんが参加しました。
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshiさんが退出しました。
+IP=127.  0.  0.  1 Yoshikoshiさんが参加しました。
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshiさんが退出しました。
+IP=127.  0.  0.  1 Yoshikoshiさんが参加しました。
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshiさんが退出しました。
+IP=127.  0.  0.  1 Yoshikoshiさんが参加しました。
+Sent 127.  0.  0.  1 Name=Yoshikoshi
+IP=127.  0.  0.  1 Yoshikoshiさんが退出しました。
+IP=127.  0.  0.  1 Yoshiさんが参加しました。
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshiさんが退出しました。

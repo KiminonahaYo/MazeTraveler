@@ -1,0 +1,15 @@
+This file made on 2016/06/13 15:47:42
+Start------------------------------------------------------------
+IP=127.  0.  0.  1 Yoshiさんが参加しました。
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : ああ
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : あああああああああああああ
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : あああああああああああああ
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : ああああ
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : ああ
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshiさんが退出しました。

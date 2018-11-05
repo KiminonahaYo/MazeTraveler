@@ -1,0 +1,29 @@
+This file made on 2016/08/03 09:59:26
+RoomName is : YoshiIsland
+Start------------------------------------------------------------
+IP=127.  0.  0.  1 YoshiÇ≥ÇÒÇ™éQâ¡ÇµÇ‹ÇµÇΩÅB
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : A
+Sent 127.  0.  0.  1 Name=Yoshi

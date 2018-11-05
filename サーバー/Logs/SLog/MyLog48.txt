@@ -1,0 +1,16 @@
+This file made on 2016/08/03 10:30:00
+RoomName is : この日本
+Start------------------------------------------------------------
+IP=127.  0.  0.  1 Yoshiさんが参加しました。
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : あ　あ
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : あ
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : あ
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : あ
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshi : あ
+Sent 127.  0.  0.  1 Name=Yoshi
+IP=127.  0.  0.  1 Yoshiさんが退出しました。

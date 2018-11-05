@@ -1,0 +1,28 @@
+﻿  Main.cpp
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\defines.h(267): warning C4101: 'len': ローカル変数は 1 度も使われていません。
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\defines.h(346): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\networkmatch.h(531): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\play.h(755): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 'itoa' の宣言を確認してください
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\play.h(756): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 'itoa' の宣言を確認してください
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\play.h(757): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 'itoa' の宣言を確認してください
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\play.h(758): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 'itoa' の宣言を確認してください
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\play.h(937): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 'itoa' の宣言を確認してください
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\play.h(1718): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 'itoa' の宣言を確認してください
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\play.h(2117): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 'itoa' の宣言を確認してください
+p:\temps\lexar_usb\programing_usb\visual c++ 2013\2016\s研\ランダム迷路\20160912\ゲーム本体（クライアント）\main.cpp(868): warning C4101: 'fp': ローカル変数は 1 度も使われていません。
+DxLib_d.lib(DxBaseFunc.obj) : error LNK2019: 未解決の外部シンボル _vsprintf が関数 "int __cdecl DxLib::_VSPRINTF(char *,char const *,char *)" (?_VSPRINTF@DxLib@@YAHPADPBD0@Z) で参照されました。
+DxUseCLib_d.lib(DxUseCLib.obj) : error LNK2019: 未解決の外部シンボル _vswprintf が関数 "int __cdecl DxLib::_VSWPRINTF(unsigned short *,unsigned short const *,char *)" (?_VSWPRINTF@DxLib@@YAHPAGPBGPAD@Z) で参照されました。
+LIBCMTD.lib(vswprintf.obj) : error LNK2001: 外部シンボル "_vswprintf" は未解決です。
+libbulletcollision_vc6_d.lib(btCollisionDispatcher.obj) : error LNK2019: 未解決の外部シンボル _printf が関数 "public: virtual bool __thiscall D_btCollisionDispatcher::needsCollision(class D_btCollisionObject *,class D_btCollisionObject *)" (?needsCollision@D_btCollisionDispatcher@@UAE_NPAVD_btCollisionObject@@0@Z) で参照されました。
+libbulletcollision_vc6_d.lib(btGjkPairDetector.obj) : error LNK2001: 外部シンボル "_printf" は未解決です。
+libjpeg_d.lib(jerror.obj) : error LNK2019: 未解決の外部シンボル _sprintf が関数 _format_message で参照されました。
+libjpeg_d.lib(jmemmgr.obj) : error LNK2019: 未解決の外部シンボル _sscanf が関数 _jinit_memory_mgr で参照されました。
+LIBCMTD.lib(vswprintf.obj) : error LNK2001: 外部シンボル "__vswprintf" は未解決です。
+P:\temps\LEXAR_USB\Programing_USB\Visual C++ 2013\2016\S研\ランダム迷路\20160912\ゲーム本体（クライアント）\Debug\test01.exe : fatal error LNK1120: 6 件の未解決の外部参照

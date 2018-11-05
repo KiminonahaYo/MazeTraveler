@@ -1,0 +1,50 @@
+typedef enum
+{
+	//S-C
+	DAT_JOINED,
+	DAT_DIS,
+
+	//C-S
+	DAT_NAME,
+
+	//チャット
+	//相互通信
+	DAT_CHAT,
+
+	//サーバ->クライアント
+	DAT_ROOM_N,
+	DAT_ROOM_NAME,
+	DAT_ROOM_ISUSE,
+	DAT_ROOM_ADD,
+
+	//C-S
+	DAT_CREATE_ROOM,
+	DAT_DEST_ROOM,
+
+	//C-S
+	DAT_JOIN_ROOM,
+	DAT_DIS_ROOM,
+
+	//C-S
+	DAT_TAIKAI_ROOM,
+
+	//未使用
+	DAT_NAME_ERROR,
+	DAT_CHAT_ERROR,
+	DAT_CONNECT_ERROR,
+
+	//迷路
+	//サーバ->クライアント
+	DAT_MAZE_MEMBER_N,
+	DAT_MAZE_MEMBER_DATA,	//クライアント->サーバあり
+	DAT_MAZE_MEMBER_ADD,
+
+	//相互
+	DAT_MAZE_INFO,
+
+	//C-S
+	DAT_MAZE_START,
+	DAT_MAZE_GOAL,
+	DAT_MAZE_CANCEL
+}
+DATATYPE;
